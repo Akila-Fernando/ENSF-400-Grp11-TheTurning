@@ -1,8 +1,24 @@
 [
   {
-    "phase": 1,
     "character" : {
-      "id": 0
+      "id": 0,
+      "otherstuff": 0
+    },
+    "script": {
+      "intro_0": "hello",
+      "intro_1": "i am mc"
+    }
+
+  },
+  {
+    "phase": 0,
+    "character" : {
+      "id": 0,
+      "otherstuff": 0
+    },
+    "script": {
+      "intro_0": "hello",
+      "intro_1": "i am mc"
     }
 
   }
