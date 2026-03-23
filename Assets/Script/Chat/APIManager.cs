@@ -89,7 +89,7 @@ public static class CharacterPrompts
 public class APIManager : MonoBehaviour
 {
     private string apiUrl = "https://api.openai.com/v1/chat/completions";
-    private string apiKey = "API";
+    private string apiKey = "API KEY";
 
     private ConversationData conversationData;
 
