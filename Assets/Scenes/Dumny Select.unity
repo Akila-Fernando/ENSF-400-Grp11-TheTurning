@@ -293,8 +293,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 306, y: 169.57}
-  m_SizeDelta: {x: 166.5687, y: 143.403}
+  m_AnchoredPosition: {x: 304.26233, y: 75.686134}
+  m_SizeDelta: {x: 179.0934, y: 151.3733}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &294359662
 MonoBehaviour:
@@ -426,7 +426,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -279, y: 200.24}
+  m_AnchoredPosition: {x: -287.51, y: 82.859}
   m_SizeDelta: {x: 163.3158, y: 165.7184}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &298000937
@@ -694,10 +694,10 @@ RectTransform:
   - {fileID: 2042637252}
   m_Father: {fileID: 1766131975}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -5.6938, y: -107.01318}
-  m_SizeDelta: {x: 881.9472, y: 133.6555}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: -106}
+  m_SizeDelta: {x: -470.2983, y: -302.8395}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &445374636
 MonoBehaviour:
@@ -983,8 +983,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 17, y: 190.48}
-  m_SizeDelta: {x: 215.3637, y: 185.2364}
+  m_AnchoredPosition: {x: 8, y: 82.86}
+  m_SizeDelta: {x: 183.4827, y: 165.72}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1158969344
 MonoBehaviour:
@@ -1507,8 +1507,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.00018310547, y: -5.5459}
-  m_SizeDelta: {x: -0.0002, y: -11.092}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: -216.3358, y: -38.4186}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2042637253
 MonoBehaviour:
@@ -1530,9 +1530,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'AI Jordan Chat
-
-'
+  m_text: Test "AI" Stranger
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1566,7 +1564,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
